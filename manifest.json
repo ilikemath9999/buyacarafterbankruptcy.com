@@ -1,0 +1,16 @@
+{
+  "name": "Buying a Car After Bankruptcy -- What You Need to Know",
+  "short_name": "buyacarafterbankruptcy.com",
+  "description": "Complete guide to buying a car after bankruptcy. Auto loan options, interest rates, credit union loans, dealer tips, and how soon you can buy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
